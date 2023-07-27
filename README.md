@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daim Iqbal</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<img align="right" ali="codeingpic" width="400" src="https://github.com/daimiqbal/daimiqbal/assets/81336390/97ba2bd0-7fa5-4eb2-b6aa-6b376cc57af5">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daimiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="daimiqbal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/idkdaim" target="blank"><img src="https://img.shields.io/twitter/follow/idkdaim?logo=twitter&style=for-the-badge" alt="idkdaim" /></a> </p>
